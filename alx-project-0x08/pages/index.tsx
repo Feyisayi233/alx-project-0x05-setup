@@ -1,3 +1,4 @@
+"use client";
 import ImageCard from "@/components/common/ImageCard";
 import { ImageProps } from "@/interfaces";
 import { useState } from "react";

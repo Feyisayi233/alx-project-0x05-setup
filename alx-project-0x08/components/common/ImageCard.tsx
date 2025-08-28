@@ -1,3 +1,4 @@
+"use client";
 import { GeneratedImageProps } from "@/interfaces";
 
 const ImageCard: React.FC<GeneratedImageProps> = ({
